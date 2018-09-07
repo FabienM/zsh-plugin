@@ -1,3 +1,5 @@
+alias ping='prettyping'
+alias cat='bat'
 alias remark='curl -o slides.html https://raw.githubusercontent.com/gnab/remark/develop/boilerplate-remote.html'
 
 function plouf {
