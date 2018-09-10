@@ -1,6 +1,6 @@
 alias ping='prettyping'
 alias cat='bat'
-alias remark='curl -o slides.html https://raw.githubusercontent.com/gnab/remark/develop/boilerplate-remote.html'
+alias remark='curl -o slides.html https://gist.githubusercontent.com/FabienM/5a41651a24ce5999b773fd54a24d53db/raw/2cfa7e4361a97934cc63e19caaed5d4f36ab0d3a/remark-boilerplate.html'
 
 function plouf {
     filename=$@
